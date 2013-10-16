@@ -1,1 +1,1 @@
-yh
+/home/z/Desktop/tmp/chromiumchromium
